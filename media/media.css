@@ -1696,10 +1696,6 @@
         margin: 0px auto;
     }
 
-    .info_block_3_1 {
-        height: 18%;
-    }
-
     .paragraph_block_3_1 a,
     .paragraph_block_3_2 a,
     .paragraph_block_3_3 a,
@@ -1723,36 +1719,33 @@
         margin-bottom: 5px;
     }
 
+    .info_block_3 {
+        margin-bottom: 100px;
+    }
+
+
+
     .info_block_3_1 img {
-        height: 83%;
+        height: 60px;
         margin-top: 5px;
     }
 
     .image_block_3 {
-        margin: 60px auto;
-        max-width: 100%;
-        zoom: 0.45;
-
+        zoom: 0.47;
+        margin-left: 70px;
     }
 
-    .image_block_3 img:nth-child(1) {
-        max-width: 100%;
-        position: relative;
-        margin-top: -85px;
-    }
 
-    .image_block_3 img:nth-child(2) {
-        max-width: 100%;
-    }
 
-    .block_4 p:nth-child(1) {
-        width: 80%;
+    .block_3 {
+        display: block;
+        max-width: 100%;
         margin: 0 auto;
-        margin-bottom: 30px;
+        margin-bottom: 60px;
     }
 
     .block_4 p b {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .image_block_4 {
@@ -1775,28 +1768,28 @@
     }
 
     .image_block_4 p {
-        font-size: 18px;
+        font-size: 15px;
         margin-bottom: 18px;
         margin-top: 18px;
     }
 
     .image_block_4 span {
-        font-size: 18px;
+        font-size: 12px;
         letter-spacing: 1px;
-        line-height: 1.5;
-        word-spacing: -3px;
+        line-height: 1.2;
+        word-spacing: 0px;
     }
 
     .button_block_4 {
-        font-size: 13px;
-        width: 200px;
-        height: 40px;
+        font-size: 9px;
+        width: 140px;
+        height: 30px;
         margin: 0 auto;
         display: block;
     }
 
     .block_4 {
-        margin-bottom: 80px;
+        margin-bottom: 60px;
     }
 
     .block_5 {
@@ -1805,7 +1798,7 @@
 
     .image_block_5 {
         max-width: 100%;
-        zoom: 0.75;
+        zoom: 0.57;
     }
 
     .info_block_5 {
@@ -1813,9 +1806,9 @@
     }
 
     .text_block_5 {
-        width: 75%;
-        font-size: 50px;
-        margin: 0px 0px 25px 15px;
+        width: 300px;
+        font-size: 25px;
+        margin: 0px 0px 15px 10px;
     }
 
     .info_block_5 {
