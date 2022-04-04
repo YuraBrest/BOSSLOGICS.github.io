@@ -1896,6 +1896,77 @@
         margin-top: -222px;
     }
 
+    .footer {
+        height: 100%;
+    }
+
+    .footer_container {
+        text-align: center;
+        padding-bottom: 0;
+    }
+
+    .logo_footer_container {
+        width: 350px;
+    }
+
+    .layer_footer_container img {
+        zoom: 1.6;
+    }
+
+    .logo_footer_container p {
+        width: 320px;
+        font-size: 13px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    .links_footer,
+    .contact_footer,
+    .social_footer {
+        font-size: 15px;
+        margin-left: 0;
+    }
+
+    .links_footer li {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+
+    .contact_footer li {
+        font-size: 13px;
+    }
+
+    .icons_footer {
+        zoom: normal;
+        margin: 15px auto;
+        position: static;
+    }
+
+    .button_contact_footer {
+        font-size: 9px;
+        width: 140px;
+        height: 30px;
+        margin: 0px auto;
+        margin-bottom: 0;
+        position: static;
+    }
+
+    .shape_footer img {
+        max-width: 300px;
+    }
+
+    .info_footer {
+        font-size: 10px;
+        padding: 0px 0px 15px 0px;
+    }
+
+    .info_footer div:nth-child(2) {
+        margin-left: 31px;
+    }
+
+    .info_footer div:nth-child(3) {
+        margin-left: 10px;
+    }
 
 
     /* block_7 */
