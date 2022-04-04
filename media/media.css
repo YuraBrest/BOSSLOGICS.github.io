@@ -1637,8 +1637,82 @@
         padding: 0 5px;
     }
 
+    .layer1,
+    .layer1_1 {
+        zoom: 0.6;
+        margin-left: 95px;
+        margin-top: 20px;
+    }
 
+    .layer2 img {
+        zoom: 0.24;
+        margin-top: 0;
+    }
 
+    .layer2 {
+        margin-top: -250px;
+        margin-left: 140px;
+    }
+
+    .side-bar {
+        margin-bottom: 150px;
+        width: 358px;
+        margin-top: 15px;
+        margin-left: 0;
+    }
+
+    .side-bar-navi-effect a {
+        font-size: 8px;
+        margin-right: 10px;
+    }
+
+    .side-bar-social {
+        display: block;
+        position: absolute;
+        margin-left: 420px;
+    }
+
+    .side-bar-social i {
+        margin-bottom: 10px;
+    }
+
+    .side-bar-navi {
+        width: 290px;
+        margin-left: 107px;
+    }
+
+    .block_1 {
+        display: block;
+        margin-bottom: 230px;
+    }
+
+    .block_1_1 {
+        margin: 0 auto;
+        width: 350px;
+    }
+
+    .block_1_1 p {
+        font-size: 13px;
+        width: 280px;
+    }
+
+    .block_1_1 img:nth-child(1) {
+        margin-top: 5px;
+    }
+
+    .button-group-block_1_1,
+    .button-group-block_1_2 {
+        font-size: 9px;
+        width: 140px;
+        height: 30px;
+    }
+
+    .text,
+    .really {
+        font-size: 25px;
+        width: 253px;
+        margin: 0px 0px 8px 5px;
+    }
 
     .block_2 {
         display: block;
@@ -1651,8 +1725,6 @@
         zoom: 0.56;
     }
 
-
-
     .text_block_2 {
         width: 300px;
         margin: 0px 0px 15px 10px;
@@ -1662,7 +1734,6 @@
         margin: 60px auto;
         width: 300px;
     }
-
 
     .info_block_2 img {
         height: 45%;
@@ -1682,7 +1753,6 @@
         font-size: 9px;
         margin-left: 0px;
     }
-
 
     .text_block_3 {
         width: 300px;
@@ -1723,8 +1793,6 @@
         margin-bottom: 100px;
     }
 
-
-
     .info_block_3_1 img {
         height: 60px;
         margin-top: 5px;
@@ -1735,8 +1803,6 @@
         zoom: 0.47;
         margin-left: 70px;
     }
-
-
 
     .block_3 {
         display: block;
@@ -1979,20 +2045,4 @@
         transform: translateZ(0) translateX(0);
         opacity: 1;
     }
-
-    [data-aos="image_block_7_4-animation"] {
-        transform: translateZ(-1400px) translateX(1000px);
-        opacity: 0;
-    }
-
-    [data-aos="image_block_7_4-animation"].aos-animate {
-        transform: translateZ(0) translateX(0);
-        opacity: 1;
-    }
-
-
-
-
-
-
 }
