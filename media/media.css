@@ -1800,14 +1800,11 @@
 
     .image_block_3 {
         max-width: 100%;
-        zoom: 0.6;
+        zoom: 0.47;
         margin-top: 25px;
         margin-left: 45px;
     }
 
-    .image_block_3 {
-        zoom: 0.47;
-    }
 
     .block_3 {
         display: block;
