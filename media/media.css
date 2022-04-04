@@ -1790,7 +1790,7 @@
     }
 
     .info_block_3 {
-        margin-bottom: 100px;
+        margin-bottom: 60px;
     }
 
     .info_block_3_1 img {
@@ -1802,7 +1802,7 @@
         max-width: 100%;
         zoom: 0.6;
         margin-top: 25px;
-        margin-left: 70px;
+        margin-left: 45px;
     }
 
     .image_block_3 {
@@ -2047,16 +2047,6 @@
     }
 
     [data-aos="info_block_7-animation"].aos-animate {
-        transform: translateZ(0) translateX(0);
-        opacity: 1;
-    }
-
-    [data-aos="image_block_7_4-animation"] {
-        transform: translateZ(-1400px) translateX(1000px);
-        opacity: 0;
-    }
-
-    [data-aos="image_block_7_4-animation"].aos-animate {
         transform: translateZ(0) translateX(0);
         opacity: 1;
     }
